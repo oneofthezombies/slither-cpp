@@ -1,0 +1,19 @@
+{
+  "enabledFileTypes": {
+    "cpp": true
+  },
+  "ignorePaths": [
+    ".devcontainer/devcontainer.json",
+    ".devcontainer/Dockerfile"
+  ],
+  "words": [
+    "clangd",
+    "ctest",
+    "gitmoji",
+    "gmock",
+    "googletest",
+    "gtest",
+    "pipx",
+    "streq"
+  ]
+}
